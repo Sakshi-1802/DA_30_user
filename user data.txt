@@ -1,0 +1,1 @@
+Git status: gives information about current git status
